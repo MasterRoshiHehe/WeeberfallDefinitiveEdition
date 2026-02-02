@@ -1,0 +1,17 @@
+[
+  {
+    "Regions": [-1],
+    "FactionId": -1,
+    "BuildingType": -1,
+    "QualityMin": 1,
+    "QualityMax": 20,
+    "TextureArchive": 186,
+    "TextureRecord": 35,
+    "ReplaceTextureArchive": 186,
+    "ReplaceTextureRecord": 35,
+    "FlatTextureName": "-1",
+    "UseExactDimensions": false,
+    "FlatPortrait": 6918612,
+	"Priority": 1
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Regions": [-1],
+    "FactionId": -1,
+    "BuildingType": -1,
+    "QualityMin": 1,
+    "QualityMax": 20,
+    "TextureArchive": 180,
+    "TextureRecord": 0,
+    "ReplaceTextureArchive": 180,
+    "ReplaceTextureRecord": 0,
+    "FlatTextureName": "-1",
+    "UseExactDimensions": false,
+    "FlatPortrait": 6918000,
+	"Priority": 1
+  },
+  {
+    "Regions": [-1],
+    "FactionId": -1,
+    "BuildingType": -1,
+    "QualityMin": 1,
+    "QualityMax": 20,
+    "TextureArchive": 180,
+    "TextureRecord": 1,
+    "ReplaceTextureArchive": 180,
+    "ReplaceTextureRecord": 1,
+    "FlatTextureName": "-1",
+    "UseExactDimensions": false,
+    "FlatPortrait": 6918001,
+	"Priority": 1
+  },
+  {
+    "Regions": [-1],
+    "FactionId": -1,
+    "BuildingType": -1,
+    "QualityMin": 1,
+    "QualityMax": 20,
+    "TextureArchive": 180,
+    "TextureRecord": 2,
+    "ReplaceTextureArchive": 180,
+    "ReplaceTextureRecord": 2,
+    "FlatTextureName": "-1",
+    "UseExactDimensions": false,
+    "FlatPortrait": 6918002,
+	"Priority": 1
+  },
+  {
+    "Regions": [-1],
+    "FactionId": -1,
+    "BuildingType": -1,
+    "QualityMin": 1,
+    "QualityMax": 20,
+    "TextureArchive": 180,
+    "TextureRecord": 3,
+    "ReplaceTextureArchive": 180,
+    "ReplaceTextureRecord": 3,
+    "FlatTextureName": "-1",
+    "UseExactDimensions": false,
+    "FlatPortrait": 6918003,
+	"Priority": 1
+  }
+]
