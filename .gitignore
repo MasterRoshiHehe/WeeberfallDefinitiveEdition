@@ -89,12 +89,13 @@ typings/
 *.opendb
 *.IDB
 
-# Ignore ALL Unity metadata files
-*.meta
-
-# Ignore specific OS-generated clutter
-.DS_Store
-Thumbs.db
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.png.meta
+*.xml.meta
+*.wav.meta
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
